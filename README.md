@@ -11,3 +11,4 @@ In this paper, we introduce a graph signal processing based approach, where we l
 ![framewokB2](https://github.com/user-attachments/assets/f86b9441-21ba-4250-a23b-92f983a23bce)
 
 
+Cite as: M. Ortiz-Bouza and S. Aviyente, "Learning Optimal Graph Filters for Clustering of Attributed Graphs," in IEEE Transactions on Signal and Information Processing over Networks, vol. 11, pp. 520-534, 2025, doi: 10.1109/TSIPN.2025.3574855
