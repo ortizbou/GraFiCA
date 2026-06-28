@@ -9,9 +9,16 @@ Reference:
     over Networks, vol. 11, pp. 520-534, 2025.
 """
 
+from grafica.cluster_matrices import cluster_matrices
+from grafica.community import community_detection
+from grafica.filtering import GraFiCAResult, grafica
 from grafica.utils import normalized_adjacency, row_normalize
 
 __all__ = [
+    "cluster_matrices",
+    "community_detection",
+    "grafica",
+    "GraFiCAResult",
     "normalized_adjacency",
     "row_normalize",
 ]
